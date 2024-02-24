@@ -1,2 +1,3 @@
-api\.env
 api/.env
+api/instance
+api/migrations
